@@ -1,2 +1,2 @@
 # sql-explaratory-data-analysis-project
-This repository contains a collection of SQL scripts demostrating various analytical techinques, such as changes overtime, cumulitive perfomance, data, segmantation, part to whole analysis
+This repository contains a collection of SQL scripts demostrating various analytical techinques, such as changes overtime, cumulitive perfomance, data, segmantation, part to whole analysis.The project contains two SQL views that analyze sales data at the product and customer level. It focuses on key business metrics like total sales, order volume, customer segments, recency, and average revenue. The views are built using T-SQL and are ideal for reporting, BI dashboards, or further data exploration.
